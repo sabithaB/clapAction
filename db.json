@@ -1,0 +1,159 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "AAA",
+      "genre": "Action",
+      "like": "true",
+      "resume": "false",
+      "watchlist": "true",
+      "type": "movie",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": 2,
+      "title": "BBB",
+      "genre": "Comedy",
+      "like": "false",
+      "resume": "true",
+      "watchlist": "false",
+      "type": "movie",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": 3,
+      "title": "CCC",
+      "genre": "Comedy",
+      "like": "false",
+      "resume": "false",
+      "watchlist": "true",
+      "type": "TV",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": 4,
+      "title": "CCC",
+      "genre": "Comedy",
+      "like": "false",
+      "resume": "false",
+      "watchlist": "true",
+      "type": "TV",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": 5,
+      "title": "CCC",
+      "genre": "Comedy",
+      "like": "false",
+      "resume": "false",
+      "watchlist": "true",
+      "type": "TV",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": 6,
+      "title": "DDD",
+      "genre": "Comedy",
+      "like": "false",
+      "resume": "false",
+      "watchlist": "true",
+      "type": "TV",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": 7,
+      "title": "EEE",
+      "genre": "Comedy",
+      "like": "false",
+      "resume": "false",
+      "watchlist": "true",
+      "type": "TV",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+
+    {
+      "id": 8,
+      "title": "FFF",
+      "genre": "Comedy",
+      "like": "false",
+      "resume": "false",
+      "watchlist": "true",
+      "type": "TV",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": 9,
+      "title": "GGG",
+      "genre": "Comedy",
+      "like": "false",
+      "resume": "false",
+      "watchlist": "true",
+      "type": "TV",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": 10,
+      "title": "HHH",
+      "genre": "Comedy",
+      "like": "false",
+      "resume": "false",
+      "watchlist": "true",
+      "type": "TV",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": 11,
+      "title": "III",
+      "genre": "Comedy",
+      "like": "false",
+      "resume": "false",
+      "watchlist": "true",
+      "type": "TV",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": 12,
+      "title": "JJJ",
+      "genre": "Comedy",
+      "like": "false",
+      "resume": "false",
+      "watchlist": "true",
+      "type": "TV",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": 13,
+      "title": "KKK",
+      "genre": "Comedy",
+      "like": "false",
+      "resume": "false",
+      "watchlist": "true",
+      "type": "TV",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": 14,
+      "title": "LLL",
+      "genre": "Comedy",
+      "like": "false",
+      "resume": "false",
+      "watchlist": "true",
+      "type": "TV",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": 15,
+      "title": "MMM",
+      "genre": "Comedy",
+      "like": "false",
+      "resume": "false",
+      "watchlist": "true",
+      "type": "TV",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    }
+  ],
+  "login": {
+    "name": "moviebuff",
+    "password": "Password123"
+  }
+}
