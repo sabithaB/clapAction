@@ -57,7 +57,7 @@
       "like": "false",
       "resume": "false",
       "watchlist": "true",
-      "type": "TV",
+      "type": "movie",
       "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     {
@@ -88,7 +88,7 @@
       "like": "false",
       "resume": "false",
       "watchlist": "true",
-      "type": "TV",
+      "type": "movie",
       "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     {
@@ -148,7 +148,7 @@
       "like": "false",
       "resume": "false",
       "watchlist": "true",
-      "type": "TV",
+      "type": "movie",
       "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     }
   ],
