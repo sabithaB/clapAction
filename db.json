@@ -2,7 +2,7 @@
   "movieSnapShot": [
     {
       "id": 1,
-      "title": "AAA",
+      "title": "Dhoom",
       "genre": "Action",
       "like": "true",
       "resume": "false",
@@ -12,7 +12,7 @@
     },
     {
       "id": 2,
-      "title": "BBB",
+      "title": "Bruce Almighty",
       "genre": "Comedy",
       "like": "false",
       "resume": "true",
@@ -22,7 +22,7 @@
     },
     {
       "id": 3,
-      "title": "CCC",
+      "title": "Friends",
       "genre": "Comedy",
       "like": "false",
       "resume": "false",
@@ -32,8 +32,8 @@
     },
     {
       "id": 4,
-      "title": "CCC",
-      "genre": "Comedy",
+      "title": "Suits",
+      "genre": "Drama",
       "like": "false",
       "resume": "false",
       "watchlist": "true",
@@ -42,8 +42,8 @@
     },
     {
       "id": 5,
-      "title": "CCC",
-      "genre": "Comedy",
+      "title": "Lost",
+      "genre": "Thriller",
       "like": "false",
       "resume": "false",
       "watchlist": "true",
@@ -52,8 +52,8 @@
     },
     {
       "id": 6,
-      "title": "DDD",
-      "genre": "Comedy",
+      "title": "Bahubali",
+      "genre": "Drama",
       "like": "false",
       "resume": "false",
       "watchlist": "true",
@@ -62,8 +62,8 @@
     },
     {
       "id": 7,
-      "title": "EEE",
-      "genre": "Comedy",
+      "title": "GOT",
+      "genre": "Thriller",
       "like": "false",
       "resume": "false",
       "watchlist": "true",
@@ -73,7 +73,7 @@
 
     {
       "id": 8,
-      "title": "FFF",
+      "title": "Big bang theory",
       "genre": "Comedy",
       "like": "false",
       "resume": "false",
@@ -83,8 +83,8 @@
     },
     {
       "id": 9,
-      "title": "GGG",
-      "genre": "Comedy",
+      "title": "Harry potter",
+      "genre": "Thriller",
       "like": "false",
       "resume": "false",
       "watchlist": "true",
@@ -93,8 +93,8 @@
     },
     {
       "id": 10,
-      "title": "HHH",
-      "genre": "Comedy",
+      "title": "Hawaii",
+      "genre": "Action",
       "like": "false",
       "resume": "false",
       "watchlist": "true",
@@ -103,8 +103,8 @@
     },
     {
       "id": 11,
-      "title": "III",
-      "genre": "Comedy",
+      "title": "Good Wife",
+      "genre": "Drama",
       "like": "false",
       "resume": "false",
       "watchlist": "true",
@@ -113,12 +113,12 @@
     },
     {
       "id": 12,
-      "title": "JJJ",
-      "genre": "Comedy",
+      "title": "Ala vaikhuntapuramlo",
+      "genre": "Drama",
       "like": "false",
       "resume": "false",
       "watchlist": "true",
-      "type": "TV",
+      "type": "Movie",
       "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     {
@@ -128,13 +128,13 @@
       "like": "false",
       "resume": "false",
       "watchlist": "true",
-      "type": "TV",
+      "type": "Movie",
       "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     {
       "id": 14,
-      "title": "LLL",
-      "genre": "Comedy",
+      "title": "Mentalist",
+      "genre": "Suspense",
       "like": "false",
       "resume": "false",
       "watchlist": "true",
