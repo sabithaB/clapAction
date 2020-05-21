@@ -4,70 +4,63 @@
       "id": 1,
       "title": "Dhoom",
       "genre": "Action",
-      "like": "true",
-      "resume": "false",
-      "watchlist": "true",
+      "language": "Hindi",
       "type": "movie",
+      "imgname": "Dhoom",
       "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     {
       "id": 2,
       "title": "Bruce Almighty",
       "genre": "Comedy",
-      "like": "false",
-      "resume": "true",
-      "watchlist": "false",
+      "language": "English",
       "type": "movie",
+      "imgname": "BruceAlmighty",
       "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     {
       "id": 3,
       "title": "Friends",
       "genre": "Comedy",
-      "like": "false",
-      "resume": "false",
-      "watchlist": "true",
+      "language": "English",
       "type": "TV",
+      "imgname": "Friends",
       "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     {
       "id": 4,
       "title": "Suits",
       "genre": "Drama",
-      "like": "false",
-      "resume": "false",
-      "watchlist": "true",
+      "language": "English",
       "type": "TV",
+      "imgname": "Suits",
       "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     {
       "id": 5,
       "title": "Lost",
       "genre": "Thriller",
-      "like": "false",
-      "resume": "false",
-      "watchlist": "true",
+      "language": "English",
       "type": "TV",
+      "imgname": "Lost",
       "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     {
       "id": 6,
       "title": "Bahubali",
       "genre": "Drama",
-      "like": "false",
-      "resume": "false",
-      "watchlist": "true",
+      "language": "Telugu",
       "type": "movie",
+      "imgname": "Bahubali",
       "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     {
       "id": 7,
       "title": "GOT",
       "genre": "Thriller",
-      "like": "false",
-      "resume": "false",
-      "watchlist": "true",
+      "language": "English",
       "type": "TV",
+      "imgname": "GOT",
       "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
 
@@ -75,85 +68,72 @@
       "id": 8,
       "title": "Big bang theory",
       "genre": "Comedy",
-      "like": "false",
-      "resume": "false",
-      "watchlist": "true",
+      "language": "English",
       "type": "TV",
+      "imgname": "BBT",
       "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     {
       "id": 9,
       "title": "Harry potter",
       "genre": "Thriller",
-      "like": "false",
-      "resume": "false",
-      "watchlist": "true",
+      "language": "English",
       "type": "movie",
+      "imgname": "HarryPotter",
       "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     {
       "id": 10,
       "title": "Hawaii",
       "genre": "Action",
-      "like": "false",
-      "resume": "false",
-      "watchlist": "true",
+      "language": "English",
       "type": "TV",
+      "imgname": "Hawaii",
       "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     {
       "id": 11,
       "title": "Good Wife",
       "genre": "Drama",
-      "like": "false",
-      "resume": "false",
-      "watchlist": "true",
+      "language": "English",
       "type": "TV",
+      "imgname": "GoodWife",
       "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     {
       "id": 12,
       "title": "Ala vaikhuntapuramlo",
       "genre": "Drama",
-      "like": "false",
-      "resume": "false",
-      "watchlist": "true",
+      "language": "English",
       "type": "Movie",
+      "imgname": "AV",
       "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     {
       "id": 13,
       "title": "KKK",
       "genre": "Comedy",
-      "like": "false",
-      "resume": "false",
-      "watchlist": "true",
+      "language": "English",
       "type": "Movie",
+      "imgname": "Bahubali",
       "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     {
       "id": 14,
       "title": "Mentalist",
       "genre": "Suspense",
-      "like": "false",
-      "resume": "false",
-      "watchlist": "true",
+      "language": "English",
       "type": "TV",
+      "imgname": "Mentalist",
       "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     {
       "id": 15,
       "title": "MMM",
       "genre": "Comedy",
-      "like": "false",
-      "resume": "false",
-      "watchlist": "true",
+      "language": "English",
       "type": "movie",
       "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     }
-  ],
-  "login": {
-    "name": "moviebuff",
-    "password": "Password123"
-  }
+  ]
 }
